@@ -60,7 +60,7 @@ cp semaforo.uf2 /media/$USER/RPI-RP2
 ## 🎥 Demonstração do Projeto
 Assista ao vídeo de demonstração no seguinte link:
 
-[📺 Assista ao vídeo]((https://youtu.be/dLx91NVbRjA))
+[📺 Assista ao vídeo](https://youtu.be/dLx91NVbRjA)
 
 ## ✒️ Autor
 Projeto desenvolvido por **Alan Borges** para o **Desafio EmbarcaTech**.
